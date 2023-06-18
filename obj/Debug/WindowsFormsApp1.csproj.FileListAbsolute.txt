@@ -1,0 +1,100 @@
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe.config
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.pdb
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addnewemp.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMain.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empdetails.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeScreen.resources
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.exe
+C:\Users\Sandeep Chamodya\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.pdb
+C:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Data\Company_log.ldf
+C:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Data\Company.mdf
+C:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe.config
+C:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe
+C:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.pdb
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addnewemp.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMain.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empdetails.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rate.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeScreen.resources
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.exe
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.pdb
+C:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Data\Company_log.ldf
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Data\Company.mdf
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addnewemp.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMain.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empdetails.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rate.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeScreen.resources
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.exe
+G:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.pdb
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe.config
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe
+G:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.pdb
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Data\Company_log.ldf
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Data\Company.mdf
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe.config
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Employee Evaluation System.pdb
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addnewemp.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMain.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Empdetails.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rate.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeScreen.resources
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.exe
+D:\Editable Original\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Employee Evaluation System.pdb
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe.config
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe.manifest
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\bin\Debug\Employee Evaluation System.application
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\bin\Debug\Employee Evaluation System.exe
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\bin\Debug\Employee Evaluation System.pdb
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addnewemp.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMain.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rate.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeScreen.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\Employee Evaluation System.exe.manifest
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\Employee Evaluation System.application
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\Employee Evaluation System.exe
+D:\Editable Original\WindowsFormsApp1 - Copy 2\WindowsFormsApp1\obj\Debug\Employee Evaluation System.pdb
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Addnewemp.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminLogin.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMain.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.rate.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WelcomeScreen.resources
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\bin\Debug\Student Reg System.exe.config
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\bin\Debug\Student Reg System.exe.manifest
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\bin\Debug\Student Reg System.application
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\bin\Debug\Student Reg System.exe
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\bin\Debug\Student Reg System.pdb
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\Student Reg System.exe.manifest
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\Student Reg System.application
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\Student Reg System.exe
+D:\Editable Original\WindowsFormsApp1 - Copy 2 - Copy\WindowsFormsApp1\obj\Debug\Student Reg System.pdb
